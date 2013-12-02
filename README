@@ -24,7 +24,8 @@ Run the make file. Then run the code as:
 
 Details of tests:
 
-The algorithms were tested on publicly available graph datasets in Lonestar supercomputer (with allocation of 12 physical cores). Details of tests below:
+The algorithms were tested on publicly available graph datasets in Lonestar supercomputer (with allocation 
+of 12 physical cores). Details of tests below:
 
 Graph:      Vertices:   Edges:  CC_1_Running_Time: CC_2_Running_Time: CC_3_Running_Time:
 
