@@ -1,14 +1,18 @@
 Parallel-connected-components
 =============================
 
-This project implements a randomized parallel algorithm to find the number of connected components in a massive graph. It is based on Intel's Cilk++ framework. This project covers three different randomized parallel algorithms.
+This project implements a randomized parallel algorithm to find the number of connected components in a 
+massive graph. It is based on Intel's Cilk++ framework. This project covers three different randomized 
+parallel algorithms.
 
 
 Background:
 
-These algorithms are entirely based on lecutures by Professor Rezaul at Stony Brook University. http://www.cs.sunysb.edu/~rezaul/Spring-2013/CSE638/CSE638-lectures-10-11.pdf.
+These algorithms are entirely based on lecutures by Professor Rezaul at Stony Brook University. 
+http://www.cs.sunysb.edu/~rezaul/Spring-2013/CSE638/CSE638-lectures-10-11.pdf.
 
-First algorithm (implemented in Par_Rand_CC1.cpp) is covered in the above lecture. The other two algorithms (for Par_Rand_CC2.cpp and Par_Rand_CC3.cpp) can be found in the file Algorithms.pdf. 
+First algorithm (implemented in Par_Rand_CC1.cpp) is covered in the above lecture. 
+The other two algorithms (for Par_Rand_CC2.cpp and Par_Rand_CC3.cpp) can be found in the file Algorithms.pdf. 
 
 
 Running the code:
